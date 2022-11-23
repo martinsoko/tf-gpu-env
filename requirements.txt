@@ -1,0 +1,4 @@
+jupyterlab
+tf-models-official
+# Add your dependencies here
+pandas
